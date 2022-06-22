@@ -1,0 +1,17 @@
+{
+    "name": "simple-store",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.ts",
+    "scripts": {
+        "build": "tsc --target es6 index.ts"
+    },
+    "keywords": [
+        "store"
+    ],
+    "author": "n4n5",
+    "license": "MIT",
+    "devDependencies": {
+        "typescript": "^4.7.4"
+    }
+}
