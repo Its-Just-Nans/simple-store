@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.ts",
     "scripts": {
-        "build": "tsc --target es6 index.ts"
+        "build": "tsc --target es5 index.ts"
     },
     "keywords": [
         "store"
