@@ -1,13 +1,16 @@
 {
     "name": "simple-store",
     "version": "1.0.0",
-    "description": "",
-    "main": "index.ts",
+    "description": "svelte-store in VanillaJS",
+    "main": "index.js",
     "scripts": {
         "build": "tsc --target es5 index.ts"
     },
     "keywords": [
-        "store"
+        "store",
+        "svelte-store",
+        "vanillajs",
+        "js"
     ],
     "author": "n4n5",
     "license": "MIT",
