@@ -1,4 +1,4 @@
-# supercharged-store
+# supercharged-store &middot; [![npm version](https://img.shields.io/npm/v/supercharged-store.svg)](https://www.npmjs.org/package/supercharged-store)
 
 `svelte-store` in VanillaJS
 
