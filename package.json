@@ -1,20 +1,33 @@
 {
-    "name": "simple-store",
+    "name": "supercharged-store",
     "version": "1.0.0",
     "description": "svelte-store in VanillaJS",
     "main": "index.js",
+    "directories": {
+        "example": "example"
+    },
+    "devDependencies": {
+        "typescript": "^4.7.4"
+    },
     "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
         "build": "tsc --target es5 index.ts"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Its-Just-Nans/supercharged-store.git"
     },
     "keywords": [
         "store",
         "svelte-store",
+        "supercharged-store",
         "vanillajs",
         "js"
     ],
     "author": "n4n5",
     "license": "MIT",
-    "devDependencies": {
-        "typescript": "^4.7.4"
-    }
+    "bugs": {
+        "url": "https://github.com/Its-Just-Nans/supercharged-store/issues"
+    },
+    "homepage": "https://github.com/Its-Just-Nans/supercharged-store#readme"
 }

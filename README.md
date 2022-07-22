@@ -1,4 +1,4 @@
-# simple-store
+# supercharged-store
 
 `svelte-store` in VanillaJS
 
